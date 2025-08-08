@@ -1,0 +1,34 @@
+f
+100
+Western Civilization
+30
+Jackson Spielvogel
+n
+288
+Empires of the Word
+60
+Nicholas Ostler
+History
+r
+311
+Origins of language
+65
+Daniel Everett
+3rd
+f
+777
+The River Between
+25
+Ngugi Wa Thiongo
+n
+555
+Democracy and Development
+36
+Ashutosh Varshney
+Politics and Culture
+r
+344
+Things Fall Apart
+28
+Chinua Achebe
+4th
